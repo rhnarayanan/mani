@@ -1,0 +1,26 @@
+install Visual Code software
+python.exe -m pip install ipykernel -U --user --force-reinstall
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install sklearn
+pip3 install model_selection
+pip install scikit-learn
+
+pip3 install  tensorflow
+virtualenv --version
+pip3 install -U pip virtualenv
+pip3 install keras
+
+****************************************************
+https://www.youtube.com/watch?v=TozTWmwxWrY&t=291s
+https://www.tensorflow.org
+****************************************************
+python.exe -m pip install --upgrade pip
+
+
+
+c:\users\admin\appdata\local\programs\python
+
+https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow_cpu-2.11.0-cp310-cp310-win_amd64.whl
